@@ -2,7 +2,7 @@
 name = 'clair_a'
 version = '0.0.1'
 description = 'A (surprisingly) simple domain-specific semantic text measure leveraging LLMs for audio-captioning evaluation.'
-authors = [{ name = 'David Chan', email = 'davidchan@berkeley.edu' }]
+authors = [{ name = 'xxxx', email = 'xxxx@xxxx' }]
 dependencies = [
     # Base dependencies
     'openai~=1.44',
