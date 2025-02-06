@@ -1,7 +1,5 @@
 # CLAIR-A: Leveraging Large Language Models to Judge Audio Captions
 
-Official implementation of the paper: "CLAIR-A: Leveraging Large Language Models to Judge Audio Captions"
-
 ## Installation / Getting Started
 
 ### Setup
